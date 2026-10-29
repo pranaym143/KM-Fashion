@@ -1,0 +1,8 @@
+{
+  "name": "KM Fashion Men's Wear - Shamirpet",
+  "description": "Premium men's clothing store in Shamirpet, Telangana. Explore casual shirts, formal wear, traditional outfits, trousers, and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
